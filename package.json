@@ -1,6 +1,6 @@
 {
   "name": "smartstart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Viper SmartStart Node.js Module",
   "main": "lib/smartstart.js",
   "scripts": {
